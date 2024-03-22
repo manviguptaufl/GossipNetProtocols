@@ -1,11 +1,4 @@
-                                                    COP5615- Distributed Operating System Principles
-                                                                    Fall 2023
-                                                            Programming Assignment #3
-                                                                    Team 4
 
-                                    Ansh Khatri		   Abhinav Aryal 	        Nandan Dave		Manvi Gupta
-                                    5754-5908		   3327-1507		        5364-2074		9050-7900
-                            ansh.khatri@ufl.edu	   abhinavaryal@ufl.edu     nandandave@ufl.edu  manvigupta@ufl.edu
 
 How to run:
 
